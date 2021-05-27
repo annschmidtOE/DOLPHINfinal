@@ -1,0 +1,15 @@
+Nick Cave 360 12 true 1000.0 0.0 2021-05-27 
+Sid Vicious 270 21 false 500.0 1200.0 2021-05-27 
+Johnny Rotten 421 60 true 1200.0 2000.0 2021-05-27 
+Leonard Cohen 854 40 true 1600.0 0.0 2021-05-27 
+Ian Curtis 90 11 true 1000.0 0.0 2021-05-27 
+Johnny Cash 284 67 true 1200.0 0.0 2021-05-27 
+Bob Dylan 877 7 false 500.0 100.0 2021-05-27 
+Niel Young 441 25 true 1600.0 200.0 2021-05-27 
+Lou Reed 144 78 true 1200.0 300.0 2021-05-27 
+Tracy Chapman 620 6 true 1000.0 0.0 2021-05-27 
+Marshall Mathers 145 40 true 1600.0 0.0 2021-05-27 
+Biggie Smalls 864 23 false 500.0 0.0 2021-05-27 
+June Carter 795 67 true 1200.0 0.0 2021-05-27 
+Otis Redding 42 12 true 1000.0 0.0 2021-05-27 
+Elvis Presley 510 44 false 500.0 0.0 2021-05-27 
